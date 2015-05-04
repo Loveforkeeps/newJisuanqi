@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8119DD6-F6ED-42A5-81BC-2AB8FE33E0B7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Jisuanqi2.0</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6EDE3FA9275C53C72771BC80FE88D43C6F8A0A8F</key>
+		<string>github.com:Loveforkeeps/newJisuanqi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Jisuanqi2.0.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6EDE3FA9275C53C72771BC80FE88D43C6F8A0A8F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Loveforkeeps/newJisuanqi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6EDE3FA9275C53C72771BC80FE88D43C6F8A0A8F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EDE3FA9275C53C72771BC80FE88D43C6F8A0A8F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newJisuanqi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
